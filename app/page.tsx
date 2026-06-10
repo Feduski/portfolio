@@ -19,7 +19,7 @@ export default function HomePage() {
         <div className="max-w-6xl mx-auto px-6 py-20 grid lg:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <h1 className="text-4xl lg:text-6xl font-bold text-foreground leading-tight text-balance">
-              I build clean, back-end experiences with Python and modern tooling.
+              I build clean, full experiences with Python, Nextjs and modern tooling.
             </h1>
 
             <p className="text-xl text-muted-foreground text-pretty">

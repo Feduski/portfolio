@@ -33,7 +33,7 @@ export default function AboutSection() {
           {/* Bio */}
           <div className="text-center max-w-3xl mx-auto">
             <p className="text-lg text-muted-foreground leading-relaxed mb-6 text-pretty">
-              I'm a passionate Python developer with a strong interest in AI and large-scale projects that aim to
+              I'm a passionate Full-stack developer with a strong interest in AI and large-scale projects that aim to
               revolutionize the industry. Currently studying Computer Science at Universidad de Buenos Aires, I combine
               academic knowledge with hands-on experience in real world projects.
             </p>
