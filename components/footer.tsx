@@ -15,7 +15,7 @@ export default function Footer() {
           <div className="flex flex-col sm:flex-row items-center gap-4">
             <a
               href="/cv.pdf"
-              download
+              download="CV - Federico Garcia Paladino.pdf"
               className="inline-flex items-center gap-2 rounded-full border border-border bg-card px-4 py-2 text-sm font-medium text-foreground transition-colors hover:bg-accent hover:text-accent-foreground"
               aria-label="Download CV"
             >
